@@ -6,3 +6,5 @@ VGG-16 is usually the go-to model but it could vary depending on the type of ima
 Hence, the purpose of this notebook is to easily run & compare models for your kind of images.
 
 Model uses tensorflow open source deep learning library as well as Keras & is in Python.
+
+Model results are based on brain tumor image classification.
